@@ -6,6 +6,10 @@ Bem-vindo ao Meu Projeto Incrível! Este repositório foi feito para praticar SA
 
 https://alura-spa-puce.vercel.app/
 
+## Screenshot
+
+<img src="imagens/imgSASS.JPG" > 
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT- consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
